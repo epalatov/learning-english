@@ -11,13 +11,11 @@ Global list of resources for learning English across the web
   1. [Adaptive Books in English](#adbooks)
   1. [Speaking practice](#spractice)
   1. [YouTube Channels](#youtube)
+  1. [Social networks](#social)
   1. [Courses](#courses)
   1. [Radio](#radio)
   1. [Apps](#apps)
 
-
-  
-  
 
 #### <a name='school'>School:</a>
 - [LinguaLeo](http://lingualeo.com/ru/)
@@ -52,6 +50,14 @@ Global list of resources for learning English across the web
 #### <a name='youtube'>YouTube Channels</a>
 - [English With Genifer!](http://www.youtube.com/user/JenniferESL)
 - [EnglishMeeting with Dave Sconda](http://www.youtube.com/user/EnglishMeeting)
+
+#### <a name='social'>Social networks</a>
+- Vk
+  - [Visual English](https://vk.com/learnenglish)
+  
+- Facebook
+
+- Twitter
 
 
 #### <a name='courses'>Courses</a>
