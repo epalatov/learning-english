@@ -52,12 +52,12 @@ Global list of resources for learning English across the web
 - [EnglishMeeting with Dave Sconda](http://www.youtube.com/user/EnglishMeeting)
 
 #### <a name='social'>Social networks</a>
-- Vk
+**Vk**
   - [Visual English](https://vk.com/learnenglish)
   
-- Facebook
+**Facebook**
 
-- Twitter
+**Twitter**
 
 
 #### <a name='courses'>Courses</a>
