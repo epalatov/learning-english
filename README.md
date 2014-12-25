@@ -15,15 +15,12 @@ Global list of resources for learning English across the web
   1. [Courses](#courses)
   1. [Radio](#radio)
   1. [Apps](#apps)
+  
+#Content
 
 
 #### <a name='school'>School:</a>
 - [LinguaLeo](http://lingualeo.com/ru/)
-  - [Jungle](http://lingualeo.com/ru/jungle)
-  - [Courses](http://lingualeo.com/ru/course)
-  - [Words and phrases](http://lingualeo.com/ru/glossary/learn)
-  - [Training] (http://lingualeo.com/ru/training)
-  - [Dictionary](http://lingualeo.com/ru/userdict)
 - [Duolingo](https://www.duolingo.com/)
 - [Busuu](https://www.busuu.com/ru/)
 - [Learn American English Online](http://learnamericanenglishonline.com/index.html)
