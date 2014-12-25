@@ -16,11 +16,16 @@ Global list of resources for learning English across the web
   1. [Apps](#apps)
 
 
+  
+  
 
 #### <a name='school'>School:</a>
   - [LinguaLeo](http://lingualeo.com/ru/)
-	- a
-	- b
+	- [Jungle](http://lingualeo.com/ru/jungle)
+	- [Courses](http://lingualeo.com/ru/course)
+	- [Words and phrases](http://lingualeo.com/ru/glossary/learn)
+	- [Training] (http://lingualeo.com/ru/training)
+	- [Dictionary](http://lingualeo.com/ru/userdict)
   - [Duolingo](https://www.duolingo.com/)
   - [Busuu](https://www.busuu.com/ru/)
   
