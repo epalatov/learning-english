@@ -6,9 +6,9 @@ Global list of resources for learning English across the web
 ##Table of Contents
 
   1. [School](#school)
-  1. [Schoolbook](#schoolb)
-  1. [Books in English](#booksen)
-  1. [Adaptive Books](#adbooks)
+  1. [Textbooks in English](#tbooks)
+  1. [Fiction in English](#fiction)
+  1. [Adaptive Books in English](#adbooks)
   1. [Speaking practice](#spractice)
   1. [YouTube Channels](#youtube)
   1. [Courses](#courses)
@@ -30,15 +30,17 @@ Global list of resources for learning English across the web
 - [Busuu](https://www.busuu.com/ru/)
 - [Learn American English Online](http://learnamericanenglishonline.com/index.html)
   
-#### <a name='schoolb'>Schoolbook</a>
+#### <a name='tbooks'>Textbooks in English</a>
 - [Essential Grammar in Use, Raymond Murphy](http://english03.ru/knigi/ob-uchebnike-murphy.html)
 - [English Grammar in Use, Raymond Murphy](http://english01.ru/)
+- [List Textbooks in English
 
 
-#### <a name='booksen'>Books in English</a>
+#### <a name='fiction'>Fiction in English</a>
 
 
-#### <a name='adbooks'>Adaptive Books</a>
+#### <a name='adbooks'>Adaptive Books in English</a>
+- [Method of reading Ilya Frank](http://www.franklang.ru/index.php/anglijskij-yazyk/14-teksty-na-anglijskom-yazyke-adaptirovannye-po-metodu-chteniya-ili-franka)
 
 
 #### <a name='schoolb'>Films on English</a>
