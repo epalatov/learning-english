@@ -26,8 +26,9 @@ Global list of resources for learning English across the web
   - [Words and phrases](http://lingualeo.com/ru/glossary/learn)
   - [Training] (http://lingualeo.com/ru/training)
   - [Dictionary](http://lingualeo.com/ru/userdict)
-  - [Duolingo](https://www.duolingo.com/)
+- [Duolingo](https://www.duolingo.com/)
 - [Busuu](https://www.busuu.com/ru/)
+- [Learn American English Online](http://learnamericanenglishonline.com/index.html)
   
 #### <a name='schoolb'>Schoolbook</a>
 
