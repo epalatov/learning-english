@@ -20,14 +20,14 @@ Global list of resources for learning English across the web
   
 
 #### <a name='school'>School:</a>
-  - [LinguaLeo](http://lingualeo.com/ru/)
-	- [Jungle](http://lingualeo.com/ru/jungle)
-	- [Courses](http://lingualeo.com/ru/course)
-	- [Words and phrases](http://lingualeo.com/ru/glossary/learn)
-	- [Training] (http://lingualeo.com/ru/training)
-	- [Dictionary](http://lingualeo.com/ru/userdict)
+- [LinguaLeo](http://lingualeo.com/ru/)
+  - [Jungle](http://lingualeo.com/ru/jungle)
+  - [Courses](http://lingualeo.com/ru/course)
+  - [Words and phrases](http://lingualeo.com/ru/glossary/learn)
+  - [Training] (http://lingualeo.com/ru/training)
+  - [Dictionary](http://lingualeo.com/ru/userdict)
   - [Duolingo](https://www.duolingo.com/)
-  - [Busuu](https://www.busuu.com/ru/)
+- [Busuu](https://www.busuu.com/ru/)
   
 #### <a name='schoolb'>Schoolbook</a>
 
@@ -45,9 +45,14 @@ Global list of resources for learning English across the web
 
 
 #### <a name='youtube'>YouTube Channels</a>
+- [English With Genifer!](http://www.youtube.com/user/JenniferESL)
+- [EnglishMeeting with Dave Sconda](http://www.youtube.com/user/EnglishMeeting)
 
 
 #### <a name='courses'>Courses</a>
+- [Poliglot](http://rutracker.org/forum/viewtopic.php?t=3919832)
+
+  
 
 
 #### <a name='radio'>Radio</a>
