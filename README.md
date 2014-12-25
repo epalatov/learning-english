@@ -3,7 +3,7 @@
 Global list of resources for learning English across the web
 
 
-## <a name="toc">Table of Contents</a>
+##Table of Contents
 
   1. [School](#school)
   1. [Schoolbook](#schoolb)
@@ -31,6 +31,8 @@ Global list of resources for learning English across the web
 - [Learn American English Online](http://learnamericanenglishonline.com/index.html)
   
 #### <a name='schoolb'>Schoolbook</a>
+- [Essential Grammar in Use, Raymond Murphy](http://english03.ru/knigi/ob-uchebnike-murphy.html)
+- [English Grammar in Use, Raymond Murphy](http://english01.ru/)
 
 
 #### <a name='booksen'>Books in English</a>
