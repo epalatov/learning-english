@@ -69,9 +69,10 @@ Global list of resources for learning English across the web
 
 
 #### <a name='fiction'>Fiction in English</a>
-- [EnglishGlobe - books](http://www.english-globe.ru/index.php?option=com_content&task=category&sectionid=4&id=4&Itemid=62)
+- [EnglishGlobe/books](http://www.english-globe.ru/index.php?option=com_content&task=category&sectionid=4&id=4&Itemid=62)
+
 **Audio-books**
-- [EnglishGlobe - audiobooks](http://www.english-globe.ru/index.php?option=com_content&task=blogcategory&id=6&Itemid=23)
+- [EnglishGlobe/audiobooks](http://www.english-globe.ru/index.php?option=com_content&task=blogcategory&id=6&Itemid=23)
 
 
 #### <a name='adbooks'>Adaptive Books in English</a>
@@ -81,7 +82,7 @@ Global list of resources for learning English across the web
 
 
 #### <a name='schoolb'>Films on English</a>
-- [english03.ru](http://english03.ru/category/filmy) ***7 films***
+- [english03.ru](http://english03.ru/category/filmy) *7 films*
 
 
 #### <a name='listening'>Listening</a>
