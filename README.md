@@ -65,9 +65,6 @@ Global list of resources for learning English across the web
 
 
 
-
-
-
 #### <a name='fiction'>Fiction in English</a>
 - [EnglishGlobe/books](http://www.english-globe.ru/index.php?option=com_content&task=category&sectionid=4&id=4&Itemid=62)
 
@@ -87,15 +84,22 @@ Global list of resources for learning English across the web
 
 #### <a name='listening'>Listening</a>
 - [Puzzle-english](http://puzzle-english.com/)
+- [EnglishClub - Dictation](https://www.englishclub.com/listening/dictation.htm)
+
 
 **Podcasts**
 - [Eslpod.com](https://www.eslpod.com/website/index_new.html)
 - [EnglishClub](https://edition.englishclub.com/category/podcasts/)
-- [EnglishClub - Poetry](https://www.englishclub.com/listening/poetry.htm)
 - [EnglishClub - News](https://edition.englishclub.com/category/listening-news/)
-- [EnglishClub - Dictation](https://www.englishclub.com/listening/dictation.htm)
-**Poems**
+- [NPR](http://www.npr.org/)
+- [CBSN](http://cbsn.cbsnews.com/)
+- [CBS News: 60 Minutes Podcast](http://www.learnoutloud.com/podcaststream/listen.php?url=http://www.cbsnews.com/common/includes/podcast/podcast_60min_1.rss&all=1&title=15735)
+- [FOXNEWS(http://radio.foxnews.com/podcast/)
+- [BBCNEWS](http://www.bbc.com/news/)
+
+**Poems, Poetry**
 - [Poems](http://www.english-globe.ru/index.php?option=com_content&task=section&id=27&Itemid=123)
+- [EnglishClub - Poetry](https://www.englishclub.com/listening/poetry.htm)
 
 
 #### <a name='spractice'>Speaking Practice of Live communication</a>
@@ -107,11 +111,9 @@ Global list of resources for learning English across the web
 - [Penfriends](http://www.englishjet.com/english_courses_files/adult_penfriends.asp)
 
 
-
 #### <a name='youtube'>YouTube Channels</a>
 - [English With Genifer!](http://www.youtube.com/user/JenniferESL)
 - [EnglishMeeting with Dave Sconda](http://www.youtube.com/user/EnglishMeeting)
-
 
 
 #### <a name='social'>Social Networks</a>
@@ -130,6 +132,9 @@ Global list of resources for learning English across the web
 - [Business English for Beginners](http://www.english-globe.ru/index.php?option=com_content&task=category&sectionid=19&id=76&Itemid=92)
 - [21 Topics](http://www.english-globe.ru/index.php?option=com_content&task=section&id=14&Itemid=57)
 - [Video English Lessons For Beginners](http://english03.ru/video-uroki)
+- [Online English Courses](http://www.1-language.com/englishcourse/index.htm)
+- [Free English Courses](http://www.langmaster.com/comru/english/home.htm#)
+- [Fun English Lessons](http://www.china232.com/category/fun-english-lessons)
 
   
 #### <a name='radio'>TV/Radio</a>
@@ -150,6 +155,7 @@ Global list of resources for learning English across the web
 
 #### <a name='programs'>Programs</a>
 - [english-globe.ru](http://www.english-globe.ru/index.php?option=com_content&task=view&id=5&Itemid=10)
+- [Vocaboly](http://www.vocaboly.com/)
 
 
 #### <a name='dict'>Dictionaries</a>
