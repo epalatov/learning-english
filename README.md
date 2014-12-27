@@ -40,6 +40,8 @@ Global list of resources for learning English across the web
 #### <a name='grammar'>Grammar</a>
 - [EnglishClub - Grammar](https://www.englishclub.com/grammar/index.htm)
 - [Grammar Lessons](http://www.english-globe.ru/index.php?option=com_content&task=section&id=16&Itemid=69)
+- [GRAMMAR](http://www.rong-chang.com/grammar.htm)
+- [English Baby](http://www.englishbaby.com/lessons/grammar)
 
 
 #### <a name='speaking'>Speaking</a>
@@ -85,6 +87,7 @@ Global list of resources for learning English across the web
 #### <a name='listening'>Listening</a>
 - [Puzzle-english](http://puzzle-english.com/)
 - [EnglishClub - Dictation](https://www.englishclub.com/listening/dictation.htm)
+- [LISTENING & SPEAKING](http://www.rong-chang.com/listen.htm)
 
 
 **Podcasts**
@@ -94,8 +97,11 @@ Global list of resources for learning English across the web
 - [NPR](http://www.npr.org/)
 - [CBSN](http://cbsn.cbsnews.com/)
 - [CBS News: 60 Minutes Podcast](http://www.learnoutloud.com/podcaststream/listen.php?url=http://www.cbsnews.com/common/includes/podcast/podcast_60min_1.rss&all=1&title=15735)
-- [FOXNEWS(http://radio.foxnews.com/podcast/)
+- [FOXNEWS](http://radio.foxnews.com/podcast/)
 - [BBCNEWS](http://www.bbc.com/news/)
+- [The Economist](https://itunes.apple.com/us/podcast/the-economist-all-audio/id151230264)
+- [digital Podcast](http://www.digitalpodcast.com/feeds)
+- [History Podcast](http://historyonair.com/)
 
 **Poems, Poetry**
 - [Poems](http://www.english-globe.ru/index.php?option=com_content&task=section&id=27&Itemid=123)
@@ -151,6 +157,7 @@ Global list of resources for learning English across the web
 - [English learning games](http://www.englishlearninggames.com/)
 - [Lingopolis](https://playlingo.co/games/lingopolis/)
 - [Vocab Games](https://www.englishclub.com/esl-games/vocabulary/?englishclub)
+- [ESL GAMES](http://www.rong-chang.com/game.htm)
 
 
 #### <a name='programs'>Programs</a>
@@ -160,6 +167,8 @@ Global list of resources for learning English across the web
 
 #### <a name='dict'>Dictionaries</a>
 - [Russian-English Visual Dictionary](http://english03.ru/knigi/vizualnyj-slovar-ripol.html)
+- [One Look](http://www.onelook.com/)
+- [Well-Known English Dictionaries](http://www.rong-chang.com/dictionaries.htm)
 
 
 #### <a name='tests'>Tests</a>
