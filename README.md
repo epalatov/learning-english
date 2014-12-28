@@ -64,6 +64,9 @@ Global list of resources for learning English across the web
 - [Articles in English](http://english03.ru/knigi/ob-artiklyax.html)
 - [Practical English Usage](http://english03.ru/knigi/skachat-swan.html)
 - [Hobnobbing with the English language](http://english03.ru/knigi/druzheskie-vstrechi-s-anglijskim-yazykom-m-kolpakchi.html)
+- [English for Children, V.Skulte](http://rutracker.org/forum/viewtopic.php?t=1487807)
+- [Full English course, M.Rubtsova](http://rutracker.org/forum/viewtopic.php?t=593011)
+- [All grammatical rules of the English language, O.Bezkorovainaya, 2012](http://rutracker.org/forum/viewtopic.php?t=4396033)
 
 
 
@@ -88,6 +91,7 @@ Global list of resources for learning English across the web
 - [Puzzle-english](http://puzzle-english.com/)
 - [EnglishClub - Dictation](https://www.englishclub.com/listening/dictation.htm)
 - [LISTENING & SPEAKING](http://www.rong-chang.com/listen.htm)
+- [TED](http://www.ted.com/)
 
 
 **Podcasts**
@@ -120,11 +124,13 @@ Global list of resources for learning English across the web
 #### <a name='youtube'>YouTube Channels</a>
 - [English With Genifer!](http://www.youtube.com/user/JenniferESL)
 - [EnglishMeeting with Dave Sconda](http://www.youtube.com/user/EnglishMeeting)
+- [English for Beginners, Irina Shipilova](https://www.youtube.com/playlist?list=PLWZ63a6zsYpi5KB3pMeFBxofCQpx7ymPe&src_vid=82VhByj-yM0&feature=iv&annotation_id=annotation_1024322775)
 
 
 #### <a name='social'>Social Networks</a>
 **Vk**
   - [Visual English](https://vk.com/learnenglish)
+  - [ENGLISH via TED](https://vk.com/tedlish)
   
 **Facebook**
 
@@ -151,6 +157,7 @@ Global list of resources for learning English across the web
 #### <a name='apps'>Apps</a>  
 - [Plague](http://plague.io/)
 - [Chatous](https://chatous.com/#)
+- [Poliglot Mobile](http://polyglotmobile.ru/)
 
 
 #### <a name='games'>Games</a>
@@ -163,6 +170,8 @@ Global list of resources for learning English across the web
 #### <a name='programs'>Programs</a>
 - [english-globe.ru](http://www.english-globe.ru/index.php?option=com_content&task=view&id=5&Itemid=10)
 - [Vocaboly](http://www.vocaboly.com/)
+- [ABBYY Lingvo x5](http://www.abbyy.ru/lingvo-windows/english_home/)
+- [Lingual Media Player]http://lingualmediaplayer.ru/ru/category/Download.aspx
 
 
 #### <a name='dict'>Dictionaries</a>
