@@ -171,7 +171,7 @@ Global list of resources for learning English across the web
 - [english-globe.ru](http://www.english-globe.ru/index.php?option=com_content&task=view&id=5&Itemid=10)
 - [Vocaboly](http://www.vocaboly.com/)
 - [ABBYY Lingvo x5](http://www.abbyy.ru/lingvo-windows/english_home/)
-- [Lingual Media Player]http://lingualmediaplayer.ru/ru/category/Download.aspx
+- [Lingual Media Player](http://lingualmediaplayer.ru/ru/)
 
 
 #### <a name='dict'>Dictionaries</a>
