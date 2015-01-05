@@ -35,6 +35,7 @@ Global list of resources for learning English across the web
 - [Vocab Reference](https://www.englishclub.com/vocabulary/reference.htm)
 - [Formation Active Vocabulary](http://www.english-globe.ru/index.php?option=com_content&task=category&sectionid=18&id=72&Itemid=88)
 - [My first 1000 English words. Mnemonic techniques](http://english03.ru/knigi/first1000words.html)
+- [Encards](http://encards.ru/)
 
 
 #### <a name='grammar'>Grammar</a>
@@ -127,12 +128,25 @@ Global list of resources for learning English across the web
 - [EnglishMeeting with Dave Sconda](http://www.youtube.com/user/EnglishMeeting)
 - [English for Beginners, Irina Shipilova](https://www.youtube.com/playlist?list=PLWZ63a6zsYpi5KB3pMeFBxofCQpx7ymPe&src_vid=82VhByj-yM0&feature=iv&annotation_id=annotation_1024322775)
 - [Movie English](https://www.youtube.com/channel/UC8Io7LK1rOICcXJh4Y4LUTg)
+- [Английский как по нотам](http://www.youtube.com/user/krutopridumal)
+- [American English n' culture with Philochko](http://www.youtube.com/user/philochko)
 
 
 #### <a name='social'>Social Networks</a>
 **Vk**
   - [Visual English](https://vk.com/learnenglish)
   - [ENGLISH via TED](https://vk.com/tedlish)
+  - [English Is Fun](https://vk.com/english_is_fun)
+  - [English Language](https://vk.com/public40167434)
+  - [English For Life](https://vk.com/eng007)
+  - [Visual English](https://vk.com/learnenglish)
+  - [Learn Languages](https://vk.com/u4yaz)
+  - [Lingva Leo](https://vk.com/lingualeo)
+  - [Languages](https://vk.com/iknowlanguage)
+  - [English With The BBC](https://vk.com/bbclearningenglish)
+  - [English Everyday](https://vk.com/wordsteps_com)
+  - [English Online](https://vk.com/englishcrab)
+  - [Daily English](https://vk.com/angyaz)
   
 **Facebook**
 
@@ -150,7 +164,8 @@ Global list of resources for learning English across the web
 - [Online English Courses](http://www.1-language.com/englishcourse/index.htm)
 - [Free English Courses](http://www.langmaster.com/comru/english/home.htm#)
 - [Fun English Lessons](http://www.china232.com/category/fun-english-lessons)
-
+- [Correct English](http://www.correctenglish.ru/exercises/)
+- [I Love English](http://iloveenglish.ru/exercises)
   
 #### <a name='radio'>TV/Radio</a>
 - [EnglishClub](https://www.englishclub.com/listening/radio.htm)
@@ -169,6 +184,7 @@ Global list of resources for learning English across the web
 - [Lingopolis](https://playlingo.co/games/lingopolis/)
 - [Vocab Games](https://www.englishclub.com/esl-games/vocabulary/?englishclub)
 - [ESL GAMES](http://www.rong-chang.com/game.htm)
+- [Free English Games](http://www.homeenglish.ru/Games.htm)
 
 
 #### <a name='programs'>Programs</a>
