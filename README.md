@@ -42,6 +42,7 @@ Global list of resources for learning English across the web
 - [Grammar Lessons](http://www.english-globe.ru/index.php?option=com_content&task=section&id=16&Itemid=69)
 - [GRAMMAR](http://www.rong-chang.com/grammar.htm)
 - [English Baby](http://www.englishbaby.com/lessons/grammar)
+- [Movie School Of English](http://happyhope.ru/blog)
 
 
 #### <a name='speaking'>Speaking</a>
@@ -125,6 +126,7 @@ Global list of resources for learning English across the web
 - [English With Genifer!](http://www.youtube.com/user/JenniferESL)
 - [EnglishMeeting with Dave Sconda](http://www.youtube.com/user/EnglishMeeting)
 - [English for Beginners, Irina Shipilova](https://www.youtube.com/playlist?list=PLWZ63a6zsYpi5KB3pMeFBxofCQpx7ymPe&src_vid=82VhByj-yM0&feature=iv&annotation_id=annotation_1024322775)
+- [Movie English](https://www.youtube.com/channel/UC8Io7LK1rOICcXJh4Y4LUTg)
 
 
 #### <a name='social'>Social Networks</a>
@@ -135,6 +137,7 @@ Global list of resources for learning English across the web
 **Facebook**
 
 **Twitter**
+- [MovieEnglish](https://twitter.com/search?q=%40movieEnglish&src=typd)
 
 
 #### <a name='courses'>Courses, Lessons and Topics</a>
@@ -151,6 +154,7 @@ Global list of resources for learning English across the web
   
 #### <a name='radio'>TV/Radio</a>
 - [EnglishClub](https://www.englishclub.com/listening/radio.htm)
+- [ororo.tv](http://ororo.tv/)
 
 
 
@@ -172,6 +176,7 @@ Global list of resources for learning English across the web
 - [Vocaboly](http://www.vocaboly.com/)
 - [ABBYY Lingvo x5](http://www.abbyy.ru/lingvo-windows/english_home/)
 - [Lingual Media Player](http://lingualmediaplayer.ru/ru/)
+- [Anki](http://ankisrs.net/index.html)
 
 
 #### <a name='dict'>Dictionaries</a>
