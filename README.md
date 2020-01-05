@@ -1,9 +1,9 @@
-#Learning English
+# Learning English
 
 Global list of resources for learning English across the web
 
 
-##Table of Contents
+## Table of Contents
 
   1. [**Vocabulary**](#vocab)
   1. [**Grammar**](#grammar)
@@ -24,8 +24,7 @@ Global list of resources for learning English across the web
   1. [Dictionaries](#dict)
   1. [Test of English](#tests)
 
-  
-##Resources
+## Resources
 
 
 #### <a name='vocab'>Vocabulary</a>
