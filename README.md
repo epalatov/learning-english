@@ -198,6 +198,7 @@ Global list of resources for learning English across the web
 - [Russian-English Visual Dictionary](http://english03.ru/knigi/vizualnyj-slovar-ripol.html)
 - [One Look](http://www.onelook.com/)
 - [Well-Known English Dictionaries](http://www.rong-chang.com/dictionaries.htm)
+- [cihat/dictionary](https://cihat.github.io/dictionary/)
 
 
 #### <a name='tests'>Tests</a>
